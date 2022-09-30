@@ -36,3 +36,45 @@ input {
 img {
 	max-width: 300px;
 }
+
+
+.favgames {
+	font-size: larger;
+	font-weight: bolder;
+}
+
+.picsandpics {
+	display: flex;
+	justify-content: center;
+}
+
+.checkboxesforluke {
+	margin: 50px;
+	display: flex ;
+	justify-items: center;
+}
+
+.backbar {
+	margin: 30px;
+}
+
+#color {
+	width: auto; height: 30px;
+	color: black;
+	background-color: yellow;
+	
+}
+
+
+#place {
+	width: auto; height: 30px;
+	color: black;
+	background-color: yellow;
+}
+
+
+#ritual {
+	width: auto; height: 30px;
+	color: black;
+	background-color: yellow;
+}
